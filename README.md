@@ -1,4 +1,4 @@
-A remake and my own take of ElementTD
+A remake and my own take of Tower Defence
 ========
 <br>
 Unlock elemental towers and combine two different elements to get special towers.
