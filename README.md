@@ -1,5 +1,6 @@
 A remake and my own take of Tower Defence
 ========
+A Tower Defense strategy game where players build defensive structures to prevent enemies from reaching their base. Originally forked from Brackeys and further developed by korotz10 and MateoMor as a university project.
 <br>
 Unlock elemental towers and combine two different elements to get special towers.
 <br>
